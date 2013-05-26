@@ -7,6 +7,6 @@ Made in 48 hours!
 
 Video: http://vimeo.com/38708264
 
-Play it here: halifaxgamejam.com/WebPlayer.html
+Play it here: http://www.halifaxgamejam.com/WebPlayer.html
 
 ![Screenshot](https://raw.github.com/svermeulen/HalifaxGameJam2011/master/scren1.png)
