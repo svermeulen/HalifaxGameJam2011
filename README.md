@@ -1,3 +1,5 @@
+![Screenshot](https://raw.github.com/svermeulen/HalifaxGameJam2011/master/screen2.png)
+
 Dolphin Face
 ========
 
@@ -9,4 +11,4 @@ Video: http://vimeo.com/38708264
 
 Play it here: http://www.halifaxgamejam.com/WebPlayer.html
 
-![Screenshot](https://raw.github.com/svermeulen/HalifaxGameJam2011/master/scren1.png)
+![Screenshot](https://raw.github.com/svermeulen/HalifaxGameJam2011/master/screen1.png)
